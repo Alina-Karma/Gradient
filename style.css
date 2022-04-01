@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+
+html,body
+{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+width: 100%;
+height: 100vh;
+background: linear-gradient(to right, rgb(189, 147, 255) 30%,rgb(58, 64, 134) 30% );
+}
+
+.img-wrap{
+    height: 700px;
+    flex-shrink: 0;
+    overflow: hidden;
+    margin-bottom: 25px; 
+    object-fit: cover;
+    padding-left: 450px;
+    padding-top: 200px;
+
+}
