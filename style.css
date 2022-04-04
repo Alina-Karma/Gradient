@@ -27,19 +27,23 @@ body {
   padding-top: 300px;
 }
 
+.text{
+  width: 125.97px;
+height: 32.5px;
+left: 149.03px;
+top: 62.25px;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+
+color: #000000;
+
+
+}
 .title {
   color: rgb(252, 252, 252);
-
-  width: 1348px;
-height: 525px;
-left: 286px;
-top: 111px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 600;
-font-size: 350px;
-line-height: 525px;
+  font-size: 10vh;
+  
 }
 
 .header-container {
